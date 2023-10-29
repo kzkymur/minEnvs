@@ -5,8 +5,8 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "webpack-dev-server --hot",
-    "prod": "webpack-dev-server  --mode=production",
-    "build": "webpack"
+    "prod": "webpack-dev-server --mode=production",
+    "build": "webpack  --mode=production"
   },
   "author": "",
   "license": "ISC",
